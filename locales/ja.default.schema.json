@@ -1,0 +1,77 @@
+{
+    "general": {
+      "404": "見つかりません",
+      "article": "記事",
+      "block": "ブロック",
+      "blog": "ブログ",
+      "cart": "カート",
+      "collection": "コレクション",
+      "collections": "コレクション一覧",
+      "collection_card": "コレクションカード",
+      "collections_grid": "コレクショングリッド",
+      "colors": "カラー",
+      "column": "列",
+      "content": "コンテンツ",
+      "custom_section": "カスタムセクション",
+      "fonts": "フォント",
+      "footer": "フッター",
+      "group": "グループ",
+      "header": "ヘッダー",
+      "layout": "レイアウト",
+      "main": "メイン",
+      "page": "ページ",
+      "password": "パスワード",
+      "primary": "主要",
+      "product": "商品",
+      "row": "行",
+      "search": "検索",
+      "secondary": "補助",
+      "section": "セクション",
+      "settings": "設定",
+      "sidebar": "サイドバー",
+      "text": "テキスト",
+      "theme": "テーマ",
+      "typography": "タイポグラフィ"
+    },
+    "labels": {
+      "alignment": "配置",
+      "background": "背景",
+      "foreground": "前面",
+      "grid_gap": "グリッドの間隔",
+      "grid_item_width": "グリッド項目の幅",
+      "input_corner_radius": "入力欄の角丸",
+      "layout_direction": "レイアウトの方向",
+      "menu": "メニュー",
+      "customer_account_menu": "カスタマーアカウントメニュー",
+      "padding": "余白 (内側)",
+      "page_margin": "ページ余白 (外側)",
+      "page_width": "ページ幅",
+      "show_payment_icons": "決済アイコンを表示する",
+      "text_style": "テキストスタイル",
+      "text": "テキスト"
+    },
+    "options": {
+      "alignment": {
+        "left": "左揃え",
+        "center": "中央揃え",
+        "right": "右揃え"
+      },
+      "direction": {
+        "horizontal": "水平",
+        "vertical": "垂直"
+      },
+      "page_width": {
+        "narrow": "狭い",
+        "wide": "広い"
+      },
+      "size": {
+        "large": "大",
+        "small": "小"
+      },
+      "text_style": {
+        "title": "タイトル",
+        "subtitle": "サブタイトル",
+        "normal": "標準テキスト"
+      }
+    }
+  }

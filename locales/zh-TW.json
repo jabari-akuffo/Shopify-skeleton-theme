@@ -1,0 +1,52 @@
+{
+    "404": {
+      "title": "404",
+      "not_found": "找不到頁面。",
+      "back_to_shopping": "返回購物"
+    },
+    "blog": {
+      "article_comments": "評論",
+      "article_metadata_html": "{{ date }} 由 {{ author }} 發布",
+      "comment_form_body": "評論內容",
+      "comment_form_email": "電子郵件",
+      "comment_form_name": "姓名",
+      "comment_form_submit": "發布",
+      "comment_form_title": "發表評論"
+    },
+    "cart": {
+      "checkout": "結帳",
+      "title": "購物車",
+      "update": "更新",
+      "remove": "移除"
+    },
+    "customers": {
+      "login": {
+        "email": "電子郵件",
+        "password": "密碼",
+        "submit": "登入",
+        "title": "登入"
+      }
+    },
+    "collections": {
+      "title": "系列"
+    },
+    "gift_card": {
+      "add_to_apple_wallet": "新增至 Apple 錢包",
+      "card": "禮品卡",
+      "expired": "此禮品卡已過期",
+      "expires_on": "到期日：{{ expires_on }}",
+      "use_at_checkout": "請在結帳時使用此禮品卡"
+    },
+    "password": {
+      "title": "此商店不對外公開",
+      "password": "密碼",
+      "enter": "進入"
+    },
+    "search": {
+      "title": "搜尋",
+      "placeholder": "搜尋文章、頁面或產品",
+      "submit": "搜尋",
+      "no_results_html": "找不到與「{{ terms }}」相關的結果",
+      "results_for_html": "找到 {{ count }} 個與「{{ terms }}」相關的結果"
+    }
+  }

@@ -1,0 +1,77 @@
+{
+    "general": {
+      "404": "找不到頁面",
+      "article": "文章",
+      "block": "區塊",
+      "blog": "部落格",
+      "cart": "購物車",
+      "collection": "系列",
+      "collections": "所有系列",
+      "collection_card": "系列卡片",
+      "collections_grid": "系列網格",
+      "colors": "顏色",
+      "column": "欄",
+      "content": "內容",
+      "custom_section": "自訂區段",
+      "fonts": "字體",
+      "footer": "頁尾",
+      "group": "群組",
+      "header": "頁首",
+      "layout": "佈局",
+      "main": "主體",
+      "page": "頁面",
+      "password": "密碼",
+      "primary": "主要",
+      "product": "產品",
+      "row": "列",
+      "search": "搜尋",
+      "secondary": "次要",
+      "section": "區段",
+      "settings": "設定",
+      "sidebar": "側邊欄",
+      "text": "文字",
+      "theme": "主題",
+      "typography": "排版"
+    },
+    "labels": {
+      "alignment": "對齊方式",
+      "background": "背景",
+      "foreground": "前景",
+      "grid_gap": "網格間距",
+      "grid_item_width": "網格項目寬度",
+      "input_corner_radius": "輸入框圓角",
+      "layout_direction": "佈局方向",
+      "menu": "選單",
+      "customer_account_menu": "客戶帳戶選單",
+      "padding": "內距",
+      "page_margin": "頁面邊距",
+      "page_width": "頁面寬度",
+      "show_payment_icons": "顯示付款圖示",
+      "text_style": "文字樣式",
+      "text": "文字"
+    },
+    "options": {
+      "alignment": {
+        "left": "靠左",
+        "center": "置中",
+        "right": "靠右"
+      },
+      "direction": {
+        "horizontal": "水平",
+        "vertical": "垂直"
+      },
+      "page_width": {
+        "narrow": "窄",
+        "wide": "寬"
+      },
+      "size": {
+        "large": "大",
+        "small": "小"
+      },
+      "text_style": {
+        "title": "標題",
+        "subtitle": "副標題",
+        "normal": "標準正文"
+      }
+    }
+  }

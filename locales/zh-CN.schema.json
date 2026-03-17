@@ -1,0 +1,77 @@
+{
+    "general": {
+      "404": "未找到",
+      "article": "文章",
+      "block": "块",
+      "blog": "博客",
+      "cart": "购物车",
+      "collection": "系列",
+      "collections": "所有系列",
+      "collection_card": "系列卡片",
+      "collections_grid": "系列网格",
+      "colors": "颜色",
+      "column": "列",
+      "content": "内容",
+      "custom_section": "自定义分区",
+      "fonts": "字体",
+      "footer": "页脚",
+      "group": "分组",
+      "header": "页眉",
+      "layout": "布局",
+      "main": "主体",
+      "page": "页面",
+      "password": "密码",
+      "primary": "主要",
+      "product": "产品",
+      "row": "行",
+      "search": "搜索",
+      "secondary": "次要",
+      "section": "分区",
+      "settings": "设置",
+      "sidebar": "侧边栏",
+      "text": "文本",
+      "theme": "主题",
+      "typography": "排版"
+    },
+    "labels": {
+      "alignment": "对齐方式",
+      "background": "背景",
+      "foreground": "前景",
+      "grid_gap": "网格间距",
+      "grid_item_width": "网格项目宽度",
+      "input_corner_radius": "输入框圆角",
+      "layout_direction": "布局方向",
+      "menu": "菜单",
+      "customer_account_menu": "客户账户菜单",
+      "padding": "内边距",
+      "page_margin": "页面外边距",
+      "page_width": "页面宽度",
+      "show_payment_icons": "显示支付图标",
+      "text_style": "文本样式",
+      "text": "文本"
+    },
+    "options": {
+      "alignment": {
+        "left": "居左",
+        "center": "居中",
+        "right": "居右"
+      },
+      "direction": {
+        "horizontal": "水平",
+        "vertical": "垂直"
+      },
+      "page_width": {
+        "narrow": "窄",
+        "wide": "宽"
+      },
+      "size": {
+        "large": "大",
+        "small": "小"
+      },
+      "text_style": {
+        "title": "标题",
+        "subtitle": "副标题",
+        "normal": "标准正文"
+      }
+    }
+  }
